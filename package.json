@@ -1,0 +1,16 @@
+{
+  "name": "canteen-go",
+  "version": "0.1.0",
+  "private": true,
+  "description": "CanteenGo smart food ordering system foundation",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
